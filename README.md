@@ -1,6 +1,4 @@
-#Exemple Readme:
-
-# terraform-init-gcp
+# Rendu Terraform GCP
 
 ## Description
 
@@ -41,8 +39,7 @@ terraform apply --auto-approve
 
 ## Test the project
 
-- On [this page](https://console.cloud.google.com/functions/list?env=gen1&cloudshell=false&hl=fr&project=gothic-state-294710&tab=testing) you can see your function
-- Click on it and go to the test section
+- On [this page](https://console.cloud.google.com/functions/list)
 - You should output :
 
 ```text

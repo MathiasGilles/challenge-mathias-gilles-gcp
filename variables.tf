@@ -13,13 +13,13 @@ variable "zone" {
 variable "project_id" {
   description = "project_id"
   type        = string
-  default = "gothic-state-294710"
+  default = ""
 }
 
 variable "credentials_file_name" {
   description = "name of the json file"
   type = string
-  default = "gothic-state-294710-45f8a2da3b65.json"
+  default = ""
 }
 
 variable "suffix" {
